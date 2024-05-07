@@ -15,7 +15,7 @@ import math
 WIDTH = 900
 HEIGHT = 600
 subFileSize= 512*1024 # 512KB
-
+#--change here---#
 #----------------------------------------Start front end-------------------------------
 class SlidePanel(ctk.CTkFrame):
   def __init__(self,parent,start_pos,end_pos):
